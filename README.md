@@ -1,2 +1,2 @@
 # Python.Start.Skriphenko
-![image](curs.png)
+![image](/Users/nikolaiskripchenko/curs.png)
