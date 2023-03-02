@@ -1,2 +1,2 @@
 # Python.Start.Skriphenko
-![image](![Uploading curs.png…]())
+![image](curs.png)
